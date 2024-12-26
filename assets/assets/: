@@ -1,0 +1,3 @@
+assets/
+├── font.ttf         # Font file used in the project
+└── example_video.mp4  # Sample video for testing purposes
