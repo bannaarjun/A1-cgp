@@ -1,0 +1,8 @@
+
+### 2. **requirements.txt**:
+If you're using Python, this file will include all the necessary libraries.
+
+```txt
+moviepy
+Pillow
+ffmpeg-python
